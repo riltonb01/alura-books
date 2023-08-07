@@ -1,0 +1,14 @@
+;:root{
+    --cor-de-fundo: #EBECEE;
+    --cor-de-menu: #0055ff;
+    --cor-de-letra: #00ff15;
+    --cor-de-footer: #d400ff;
+    --cor-de-foo: #a6ff00;
+}
+
+body{
+    background-color: red;
+}
+h1{
+    color: azure;
+}
